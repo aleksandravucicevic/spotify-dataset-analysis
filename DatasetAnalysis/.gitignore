@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VEs
+venv/
+.env/
+.venv/
+
+# PySpark output folders
+output/
+*.json
+
+# VSCode
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
