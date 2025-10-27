@@ -1,5 +1,5 @@
 # Analiza Spotify podataka korištenje PySpark-a
-Ovaj projektni zadatak demonstrira upotrebu Apache Spark-a (PySpark) okruženja za analizu velikog skupa muzičkih podataka sa platforme Spotify.
+Ovaj projektni zadatak demonstrira upotrebu Apache Spark (PySpark) okruženja za analizu velikog skupa muzičkih podataka sa platforme Spotify.
 Kroz seriju analiza istražuju se veze između popularnosti pjesama, muzičkih karakteristika (energija, valenca, tempo) i metapodataka (izvođač, žanr, album).
 
 # Pregled projekta
