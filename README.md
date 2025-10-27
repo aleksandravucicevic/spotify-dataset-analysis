@@ -13,7 +13,7 @@ Podaci se automatski učitavaju, obrađuju i analiziraju kroz 8 definisanih funk
 
 # Glavne analize
 1. 10 najčešćih kolaboracija izvođača - analizira najčešće saradnje između izvođača, njihovu popularnost, kao i solo popularnost svakog od izvođača iz kolaboracija, te poredi popularnost kolaboracije i popularnost najmanje popularnog izvođača koji je učestvovao u kolaboraciji.
-2. Breakthrouh pjesme - identifikuje pjesme sa izuzetno visokom popularnošću sa inače manje popularnih albuma i analizira njihove audio karakteristike.
+2. Breakthrough pjesme - identifikuje pjesme sa izuzetno visokom popularnošću sa inače manje popularnih albuma i analizira njihove audio karakteristike.
 3. Tempo "sweet spot" - istražuje optimalne vrijednosti tempa za 5 najpopularnijih žanrova.
 4. Veza između eksplicitnog teksta i popularnosti - mjeri korelaciju između eksiplicitnosti i popularnosti pjesama po žanru.
 5. Trajanje i popularnost - upoređuje popularnost 10 najdužih pjesama sa visokom stopom plesivosti (danceability) sa prosječnom popularnošću pjesama u istom žanru kako bi se utvrdilo da li duže trajanje utiče na uspjeh.
